@@ -1,0 +1,26 @@
+<map>
+    <name>Innocuous Fort</name>
+    <objective>fortdefense</objective>
+    <lobby x='-26.5' y='91' z='-22.5' yaw='314' pitch='-29.1'/>
+    <spawns>
+        <spawn x='0.5' y='74' z='0.5' yaw='360' pitch='0'/>
+    </spawns>
+    <creators>
+        <creator name='AnomalousRei'/>
+        <creator name='MiCkEyMiCE'/>
+    </creators>
+    <description>Protect the 4 areas of the fort from the zombies for 10 minutes to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>30</maxPlayers>
+    <secondsToSurvive>600</secondsToSurvive>
+    <forts>
+        <fort x1='30' y1='64' z1='-4' x2='30' y2='68' z2='4' sx='47.5' sy='64'
+        sz='-1.5' syaw='3' spitch='-90' color='BLUE' name='Fort A'/>
+        <fort x1='5' y1='64' z1='25' x2='-5' y2='67' z2='25' sx='0.5' sy='64'
+        sz='35.5' syaw='0' spitch='0' color='RED' name='Fort B'/>
+        <fort x1='-30' y1='64' z1='4' x2='-30' y2='68' z2='-4' sx='-40.5' sy='64'
+        sz='1.5' syaw='1' spitch='90' color='YELLOW' name='Fort C'/>
+        <fort x1='5' y1='64' z1='-25' x2='-5' y2='67' z2='-25' sx='-0.5' sy='64'
+        sz='-37.5' syaw='2' spitch='180' color='GREEN' name='Fort D'/>
+    </forts>
+</map>
