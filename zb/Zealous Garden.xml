@@ -1,0 +1,27 @@
+<map>
+    <name>Zealous Garden</name>
+    <objective>fortdefense</objective>
+    <lobby x='-21.5' y='73' z='14.5' yaw='222' pitch='-19.2'/>
+    <spawns>
+        <spawn x='4.5' y='60' z='4.5' yaw='0' pitch='0'/>
+        <spawn x='4.5' y='60' z='12.5' yaw='180' pitch='-5.3'/>
+    </spawns>
+    <creators>
+        <creator name='AnomalousRei'/>
+        <creator name='bossyfins'/>
+    </creators>
+    <description>Protect the 4 areas of the fort from the zombies for 8 minutes to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>25</maxPlayers>
+    <secondsToSurvive>480</secondsToSurvive>
+    <forts>
+        <fort x1='7' y1='64' z1='22' x2='1' y2='60' z2='22' sx='4.5' sy='60'
+        sz='32.5' syaw='180' spitch='-0.3' color='RED' name='Alpha'/>
+        <fort x1='-22' y1='64' z1='-1' x2='-22' y2='60' z2='-7' sx='-32.5' sy='60'
+        sz='-4.5' syaw='270' spitch='-2.1' color='GOLD' name='Beta'/>
+        <fort x1='1' y1='64' z1='-30' x2='7' y2='60' z2='-30' sx='4.5' sy='60'
+        sz='-40.5' syaw='360' spitch='0.1' color='BLUE' name='Omega'/>
+        <fort x1='30' y1='64' z1='-7' x2='30' y2='60' z2='-1' sx='40.5' sy='60'
+        sz='-4.5' syaw='90' spitch='0.45' color='DARK_PURPLE' name='Delta'/>
+    </forts>
+</map>
