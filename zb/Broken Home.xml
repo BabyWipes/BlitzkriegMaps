@@ -1,0 +1,19 @@
+<map>
+    <name>Broken Home</name>
+    <objective>wavesurvival</objective>
+    <lobby x='15.5' y='78' z='-40.5' yaw='40' pitch='2.7'/>
+    <spawns>
+        <spawn x='0.5' y='68' z='-4.5' yaw='0' pitch='24.8'/>
+        <spawn x='0.5' y='68' z='5.5' yaw='180' pitch='4.3'/>
+    </spawns>
+    <creators>
+        <creator name='AnomalousRei'/>
+        <creator name='MiCkEyMiCE'/>
+        <creator name='bossyfins'/>
+    </creators>
+    <description>Survive all 15 waves of zombies to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>30</maxPlayers>
+    <maxWave>15</maxWave>
+    <waveInterval>20</waveInterval>
+</map>
