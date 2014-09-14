@@ -1,0 +1,17 @@
+<map>
+    <name>Xenon</name>
+    <objective>wavesurvival</objective>
+    <lobby x='17.5' y='23' z='40' yaw='221.3' pitch='-9.8'/>
+    <spawns>
+        <spawn x='39.5' y='6' z='19' yaw='224.3' pitch='0.1'/>
+        <spawn x='67.5' y='6' z='-9.5' yaw='45.1' pitch='-0.4'/>
+    </spawns>
+    <creators>
+        <creator name='kalikakitty'/>
+    </creators>
+    <description>Survive all 15 waves of zombies to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>25</maxPlayers>
+    <maxWave>15</maxWave>
+    <waveInterval>20</waveInterval>
+</map>
