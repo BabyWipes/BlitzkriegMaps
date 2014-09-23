@@ -1,0 +1,23 @@
+<map>
+    <name>Cataract</name>
+    <objective>digression</objective>
+    <lobby x='151.5' y='103' z='14.5' yaw='105.6' pitch='-0'/>
+    <flag x='-54' y='41' z='-7'/>
+    <spawns>
+        <spawn x='123.5' y='84' z='-5.5' yaw='76' pitch='-1.2'/>
+        <spawn x='120.5' y='83' z='13.5' yaw='115' pitch='8.4'/>
+    </spawns>
+    <creators>
+        <creator name='AnomalousRei'/>
+    </creators>
+    <blocks>
+        <block x='92' y='97' z='1' difficulty='2'/>
+        <block x='62' y='110' z='-1' difficulty='4'/>
+        <block x='5' y='90' z='-2' difficulty='6'/>
+        <block x='-49' y='37' z='-7' difficulty='7'/>
+    </blocks>
+    <description>Capture the point at the bottom of the waterfall to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>50</maxPlayers>
+    <time>120</time>
+</map>
