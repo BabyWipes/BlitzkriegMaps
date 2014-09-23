@@ -1,7 +1,7 @@
-Blitzkreig Maps Repository
+Blitzkrieg Maps Repository
 ==============
 
-Official Zombie Blitzkreig map repository. All maps that appear on the servers, you will find the configuration files here. Any modifications, deletions or additions must be done in the form of a considerable and valid ***pull request***.
+Official Zombie Blitzkrieg map repository. All maps that appear on the servers, you will find the configuration files here. Any modifications, deletions or additions must be done in the form of a considerable and valid ***pull request***.
 
 #### Pull requests
 If you are planning to make a deletion or modification, you will need to validate the priority and reason of the modification. If you are to pull a valid modification or deletion, it is most likely to be pushed instantly. Make sure to push ***one commit only*** for your pull request, as we will not accept requests with more than 1 commit except in certain situations. Make sure to include a **DIRECT** link to your map in the description when submitting a pull request.
