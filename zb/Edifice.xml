@@ -1,9 +1,9 @@
 <map>
     <name>Edifice</name>
     <objective>stockade</objective>
-    <lobby x='35.5' y='85' z='31.5' yaw='130.94' pitch='-21.232'/>
+    <lobby x='35.5' y='85' z='31.5' yaw='140.5' pitch='26.2'/>
     <spawns>
-        <spawn x='-6.5' y='65' z='9.5' yaw='217.5' pitch='-5.995'/>
+        <spawn x='-6.5' y='66' z='9.5' yaw='-137.7' pitch='23.1'/>
         <spawn x='-9.5' y='70' z='-37.5' yaw='334.386' pitch='-9.26'/>
     </spawns>
     <creators>
@@ -14,6 +14,6 @@
     <minPlayers>1</minPlayers>
     <maxPlayers>35</maxPlayers>
     <time>180</time>
-    <cap>890</cap>
+    <cap>450</cap>
     <circle x='6' y='59' z='-7' size='7' min='15' max='30'/>
 </map>
