@@ -1,0 +1,35 @@
+<map>
+    <name>Segregation</name>
+    <objective>ctf</objective>
+    <lobby x='-32.8' y='87' z='33.75' yaw='235' pitch='-9.1'/>
+    <spawns>
+        <spawn x='1.5' y='67' z='0' yaw='270' pitch='0.75'/>
+        <spawn x='-1.5' y='67' z='0' yaw='90' pitch='-0.77'/>
+    </spawns>
+    <creators>
+        <creator name='__R3'/>
+    </creators>
+    <description>Capture the flags on each end of the map to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>25</maxPlayers>
+    <spawners>
+        <spawner id='1' x='16' y='67' z='-16' zombies='3'/>
+        <spawner id='2' x='16' y='67' z='16' zombies='3'/>
+        <spawner id='3' x='-16' y='67' z='16' zombies='3'/>
+        <spawner id='4' x='-16' y='67' z='-16' zombies='3'/>
+        <spawner id='5' x='-8' y='67' z='-32' zombies='7'/>
+        <spawner id='6' x='8' y='67' z='-32' zombies='7'/>
+        <spawner id='7' x='32' y='67' z='-8' zombies='7'/>
+        <spawner id='8' x='32' y='67' z='8' zombies='7'/>
+        <spawner id='9' x='8' y='67' z='32' zombies='7'/>
+        <spawner id='10' x='-8' y='67' z='32' zombies='7'/>
+        <spawner id='11' x='-32' y='67' z='8' zombies='7'/>
+        <spawner id='12' x='-32' y='67' z='-8' zombies='7'/>
+    </spawners>
+    <flags>
+        <flag name='Orange' color='ORANGE' bx='0' by='69' bz='-29' px='0' py='68' pz='-10'/>
+        <flag name='Magenta' color='MAGENTA' bx='29' by='69' bz='0' px='10' py='68' pz='0'/>
+        <flag name='Cyan' color='CYAN' bx='0' by='69' bz='29' px='0' py='68' pz='10'/>
+        <flag name='Yellow' color='YELLOW' bx='-29' by='69' bz='0' px='-10' py='68' pz='0'/>
+    </flags>
+</map>
