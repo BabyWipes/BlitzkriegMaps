@@ -1,0 +1,37 @@
+<map>
+    <name>Fairwick Village</name>
+    <objective>ctf</objective>
+    <lobby x='38.5' y='92' z='101.4' yaw='222.7' pitch='-6.1'/>
+    <spawns>
+        <spawn x='89.5' y='78' z='84.5' yaw='135.1' pitch='-6.5'/>
+        <spawn x='55.5' y='78' z='50.5' yaw='315.1' pitch='-9.2'/>
+    </spawns>
+    <creators>
+        <creator name='__R3'/>
+    </creators>
+    <description>Capture the flags on each end of the map to win!</description>
+    <minPlayers>1</minPlayers>
+    <maxPlayers>30</maxPlayers>
+    <spawners>
+        <spawner id='1' x='136' y='73' z='58' zombies='7'/>
+        <spawner id='2' x='136' y='73' z='76' zombies='7'/>
+        <spawner id='3' x='81' y='73' z='131' zombies='7'/>
+        <spawner id='4' x='63' y='73' z='131' zombies='7'/>
+        <spawner id='5' x='8' y='73' z='76' zombies='7'/>
+        <spawner id='6' x='8' y='73' z='58' zombies='7'/>
+        <spawner id='7' x='63' y='73' z='3' zombies='7'/>
+        <spawner id='8' x='81' y='73' z='3' zombies='7'/>
+        <spawner id='9' x='65' y='73' z='44' zombies='5'/>
+        <spawner id='10' x='79' y='73' z='44' zombies='5'/>
+        <spawner id='11' x='79' y='73' z='90' zombies='5'/>
+        <spawner id='12' x='65' y='73' z='90' zombies='5'/>
+        <spawner id='13' x='48' y='73' z='61' zombies='6'/>
+        <spawner id='14' x='96' y='73' z='73' zombies='6'/>
+    </spawners>
+    <flags>
+        <flag name='Light Grey' color='LIGHT_GREY' bx='6' by='74' bz='67' px='71' py='72' pz='67'/>
+        <flag name='Pink' color='PINK' bx='72' by='74' bz='132' px='72' py='72' pz='68'/>
+        <flag name='Green' color='GREEN' bx='138' by='74' bz='67' px='73' py='72' pz='67'/>
+        <flag name='Blue' color='BLUE' bx='72' by='74' bz='2' px='72' py='72' pz='66'/>
+    </flags>
+</map>
